@@ -9,3 +9,6 @@ Repository for playing around with p5.js
 
 **Cities** city population mapping, population can be filtered by a slider in logarithmic scale
 ![Cities](/Cities/cities.png)
+
+**BarChart** 2d barchart visualization with shaded look, bar charts react to the mouse position
+![Barcharts](/BarChart/barchart.png)
