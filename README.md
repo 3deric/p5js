@@ -12,3 +12,6 @@ Repository for playing around with p5.js
 
 **BarChart** 2d barchart visualization with shaded look, bar charts react to the mouse position
 ![Barcharts](/BarChart/barchart.png)
+
+**CellularAutomata** based on a tutorial by 'the coding train'
+![CellularAutomata](/CellularAutomata/cellular.png)
